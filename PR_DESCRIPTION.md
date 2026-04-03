@@ -1,4 +1,4 @@
-# PR 说明（codex-console2 -> codex-console）
+#  PR 说明（codex-console2 -> codex-console）
 
 ## 结论摘要
 本次 PR 基于 `K:\github\codex-console2` 对比原仓库 `K:\github\codex-console`，当前实际代码差异为 **1 项**：
